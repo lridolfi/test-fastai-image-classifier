@@ -4,5 +4,6 @@ channels:
   - fastai
 dependencies:
   - voila
-  - fastai.vision.all
+  - fastai.vision.image
+  - fastai.vision.load_learner
 prefix: /Users/lucaridolfi/opt/anaconda3/envs/fastai
