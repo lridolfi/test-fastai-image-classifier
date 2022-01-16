@@ -1,8 +1,6 @@
 name: fastai
 channels:
   - defaults
-  - fastai
 dependencies:
-  - fastai
   - voila
 prefix: /Users/lucaridolfi/opt/anaconda3/envs/fastai
