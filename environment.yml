@@ -1,0 +1,9 @@
+name: fastai
+channels:
+  - defaults
+dependencies:
+  - python=3.9.7
+  - fastai
+  - jupyter
+  - voila
+prefix: /Users/lucaridolfi/opt/anaconda3/envs/fastai
