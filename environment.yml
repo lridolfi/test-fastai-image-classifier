@@ -1,6 +1,7 @@
 name: fastai
 channels:
   - defaults
+  - fastai
 dependencies:
   - python=3.9.7
   - fastai
