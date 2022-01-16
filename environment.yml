@@ -3,8 +3,6 @@ channels:
   - defaults
   - fastai
 dependencies:
-  - python=3.9.7
   - fastai
-  - jupyter
   - voila
 prefix: /Users/lucaridolfi/opt/anaconda3/envs/fastai
